@@ -28,7 +28,7 @@ twitter_username: jekyllrb
 github_username:  yukki03
 
 # Build settings
-theme: jekyll-theme-cayman
+remote_theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
